@@ -1,2 +1,2 @@
 # hello-world
-Nihao, Shijie.
+你好，世界。
